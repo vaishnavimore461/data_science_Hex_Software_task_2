@@ -1,0 +1,2 @@
+# data_science_Hex_Software_task_2
+internship task
